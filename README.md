@@ -1,4 +1,5 @@
 <h1 align="center">👨🏻‍💻 Muhammad Huzaifa</h1></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rizalion&label=Profile%20views&color=0e75b6&style=flat" alt="rizalion" /> </p>
 <code>Digital Craftsman (Developer/Filmmaker/Creator)</code></p>
 I'm diving deep into the world of coding and software engineering, with a strong focus on programming languages, algorithms, and data structures. My goal is to become a proficient software developer who contributes to innovative solutions in the tech industry.
 In addition to my tech pursuits, I’m a dedicated photographer and videographer, capturing stories through my lens. I'm also committed to continuous self-improvement, always seeking to learn and grow, whether through books, online courses, or hands-on experiences.
